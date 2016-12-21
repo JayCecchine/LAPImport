@@ -8,7 +8,7 @@ Public Class Form1
     Private getHeader As String
     Private oleSet As String
     Private oleVer As String
-
+    Dim Bobert As String
     Public PricingSheet As DataSet
 
 
